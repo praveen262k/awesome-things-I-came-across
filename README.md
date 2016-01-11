@@ -4,6 +4,7 @@
 * http://webdriver.io/
 
 ## JS library
+* https://blog.formidable.com/the-only-correct-script-loader-ever-made-de507420e2b8#.o6t02yqh1
 
 ###Node
 * JS DOM - DOM on node wow!!! - https://github.com/tmpvar/jsdom
