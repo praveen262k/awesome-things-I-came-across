@@ -17,3 +17,6 @@
 
 ##YouTube
 * https://www.youtube.com/watch?v=D63FWeYhISU
+
+##Physics
+https://www.gatesnotes.com/Education/The-Best-Teacher-I-Never-Had?WT.mc_id=20160127203200_BestTeacherINeverHad_BG-TW&WT.tsrc=BGTW&linkId=20726186
